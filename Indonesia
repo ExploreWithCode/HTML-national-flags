@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag of Indonesia</title>
+</head>
+<body>
+<table cellspacing=0 border=0 cellpadding=90 width=100% align=center bgcolor=#ff0000>
+<!--line 1-->
+<tr>
+<td></td>
+</tr>
+<!--line 2-->
+<tr>
+<td></td>
+</tr>
+<!--line 3-->
+<tr bgcolor=#ffffff>
+<td></td>
+</tr>
+<!--line 4-->
+<tr bgcolor=#ffffff>
+<td></td>
+</tr>
+</table>
+</body>
+</html>
