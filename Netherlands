@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag of the Netherlands</title>
+</head>
+<body>
+<table cellspacing=0 border=0 cellpadding=61 width=75% align=center>
+<!--line 1-->
+<tr bgcolor=#b01623>
+<td></td>
+</tr>
+<tr bgcolor=#b01623>
+<td></td>
+</tr>
+<!--line 2-->
+<tr bgcolor=#ffffff>
+<td></td>
+</tr>
+<tr bgcolor=#ffffff>
+<td></td>
+</tr>
+<!--line 3-->
+<tr bgcolor=#1b448c>
+<td></td>
+</tr>
+<tr bgcolor=#1b448c>
+<td></td>
+</tr>
+</table>
+</body>
+</html>
