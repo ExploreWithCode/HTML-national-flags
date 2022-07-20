@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag of United Arab Emirates</title>
+</head>
+<body bgcolor=lightgray>
+<table cellspacing=0 border=0 cellpadding=61 width=100% align=center valign=center bgcolor=#ff0000>
+<!--line 1-->
+<tr>
+<td></td> <td bgcolor=#00742b></td> <td bgcolor=#00742b></td> <td bgcolor=#00742b></td> 
+</tr>
+<tr>
+<td></td> <td bgcolor=#00742b></td> <td bgcolor=#00742b></td> <td bgcolor=#00742b></td>
+</tr>
+<!--line 2-->
+<tr>
+<td></td> <td bgcolor=#ffffff></td> <td bgcolor=#ffffff></td> <td bgcolor=#ffffff></td>
+</tr>
+<tr>
+<td></td> <td bgcolor=#ffffff></td> <td bgcolor=#ffffff></td> <td bgcolor=#ffffff></td>
+</tr>
+<!--line 3-->
+<tr>
+<td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+</tr>
+<tr>
+<td></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td> <td bgcolor=#000000></td>
+</tr>
+</table>
+</body>
+</html>
