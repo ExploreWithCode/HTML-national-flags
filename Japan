@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag of Japan</title>
+<style type="text/css">
+#tabler {
+  border: 0px solid black;
+  border-radius: 50%;
+}
+</style>
+</head>
+<body bgcolor=white>
+<table cellspacing=0 border=0 cellpadding=41 width=40% align=center valign=center bgcolor=#ffffff><!--top table-->
+<!--line 1-->
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+</table>
+<table id=tabler cellspacing=0 border=0 cellpadding=47 width=40% align=center valign=center bgcolor=#bd0029>
+<!--line 1-->
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<!--line 2-->
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+</table>
+<table cellspacing=0 border=0 cellpadding=41 width=40% align=center valign=center bgcolor=#ffffff><!--bottom table-->
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+<tr>
+<td></td> <td></td> <td></td>
+</tr>
+</table>
+</body>
+</html>
